@@ -32,7 +32,7 @@ Replace the values remove values if you don't need them.
 * __src:__ image url
 * __alt:__ image alt tag (optional)
 * __shape:__ set this to (circle or square)
-* __effect:__ Circle (effect1 - effect20), square (effect1 - effect15)
+* __effect:__ circle (effect1 - effect20) | square (effect1 - effect15)
 * __color:__ sets the background-color overlay (optional) see examples page
 * __title:__ sets the title
 * __desc:__ sets the description
