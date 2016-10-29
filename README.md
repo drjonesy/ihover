@@ -29,14 +29,14 @@ Replace the values remove values if you don't need them.
 ```
 [iHover src="" alt="" shape="" effect="" color="" title="" desc="" link=""]
 ```
-* __src__: image url
-* alt: image alt tag (optional)
-* shape: set this to (circle or square)
-* effect: Circle (effect1 - effect20), square (effect1 - effect15)
-* color: sets the background-color overlay (optional) see examples page
-* title: sets the title
-* desc: sets the description
-* link: add url you'd like to link the image to.
+* __src:__ image url
+* __alt:__ image alt tag (optional)
+* __shape:__ set this to (circle or square)
+* __effect:__ Circle (effect1 - effect20), square (effect1 - effect15)
+* __color:__ sets the background-color overlay (optional) see examples page
+* __title:__ sets the title
+* __desc:__ sets the description
+* __link:__ add url you'd like to link the image to.
 
 
 ## Preview
