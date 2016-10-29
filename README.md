@@ -2,7 +2,7 @@
 ![thumbnail](./preview/thumb.png)
 
 ## Intro
-iHover-Shortcoder is a Wordpress Plugin adapted from iHover found at: https://github.com/gudh/ihover
+iHover-Shortcoder is a Wordpress Plugin adapted from iHover found at: https://github.com/gudh/ihoverd
 iHover is a collection of hover effects using pure CSS, inspired by [this codrops article](http://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/), powered by Sass.
 
 **Demo**: http://gudh.github.io/ihover/dist/index.html
@@ -29,7 +29,7 @@ Replace the values remove values if you don't need them.
 ```
 [iHover src="" alt="" shape="" effect="" color="" title="" desc="" link=""]
 ```
-* src: image url
+* __src__: image url
 * alt: image alt tag (optional)
 * shape: set this to (circle or square)
 * effect: Circle (effect1 - effect20), square (effect1 - effect15)
